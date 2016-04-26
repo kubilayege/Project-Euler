@@ -12,6 +12,6 @@ int main()
 			sum = sum + j;
 		}
 	}
-	printf("%d\n",sum);
+	printf("%d\n ",sum);
 	return 0;
 }
